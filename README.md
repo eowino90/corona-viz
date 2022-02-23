@@ -1,2 +1,2 @@
 # corona-viz
-Visualize corona virus data
+Visualize Italy corona virus data (early release).
